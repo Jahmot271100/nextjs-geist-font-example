@@ -1,0 +1,22 @@
+{
+  "short_name": "AnimalSounds",
+  "name": "Animal Sounds PWA",
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#000000",
+  "description": "A Progressive Web App with 60 animal sound buttons"
+}
